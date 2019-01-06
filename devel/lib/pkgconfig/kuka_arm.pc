@@ -1,0 +1,8 @@
+prefix=/home/antares/src/catkin_space/git/devel
+
+Name: kuka_arm
+Description: Description of kuka_arm
+Version: 0.0.0
+Cflags: -I/home/antares/src/catkin_space/git/devel/include
+Libs: -L/home/antares/src/catkin_space/git/devel/lib 
+Requires: 

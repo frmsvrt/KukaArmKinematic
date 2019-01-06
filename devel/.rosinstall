@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/antares/src/catkin_space/git/devel/setup.sh

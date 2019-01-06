@@ -1,0 +1,8 @@
+prefix=/home/antares/src/catkin_space/git/install
+
+Name: kr210_claw_moveit
+Description: Description of kr210_claw_moveit
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/antares/src/catkin_space/git/install/lib 
+Requires: 
